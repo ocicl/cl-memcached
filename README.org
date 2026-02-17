@@ -2,9 +2,8 @@
 
 Fast, thread-safe interface to the Memcached object caching system.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/quasi/cl-memcached.git   |
-| commit  | 554b981  |
-| systems | cl-memcached |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/quasi/cl-memcached.git |
+| commit  | e0f7187                                       |
+| systems | cl-memcached                                  |
+|---------+-----------------------------------------------|
